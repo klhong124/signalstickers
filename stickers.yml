@@ -4,7 +4,14 @@
 #
 # When adding a new pack, please remember to add it AT THE END OF THE FILE,
 # and pay attention to the indentation.
-
+e217e0820b63184de8be1b9dafa7ee8d:
+  key: 927642c705cefd848c3b09d6d681cd08d3b0df61c6bb8212a5751a602d64ea5f
+  source: >-
+    https://stickers.cloud/pack/%E8%A7%92%E8%90%BD%E7%94%9F%E7%89%A9-%E8%8B%B1%E6%96%87%E7%AF%871
+  tags: []
+  nsfw: false
+  original: false
+  animated: false
 ae1d343accdec586fe19954a6be7aee9:
   key: ffea9831b6af7617e4ab1b3868ce6f26f5c7c8ab3f05fb8d68b436f9253232ab
   source: ''
